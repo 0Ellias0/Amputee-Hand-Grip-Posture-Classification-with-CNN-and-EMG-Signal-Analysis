@@ -2,7 +2,10 @@
 
 ## Overview
 
-This repository provides a robust solution for the classification of hand grip postures in amputees. The methodology involves the use of Continuous Wavelet Transform (CWT) and Convolutional Neural Networks (CNNs). By leveraging EMG (Electromyography) signal analysis, we extract time-frequency features and generate a dataset of images using advanced data augmentation techniques.
+This repository provides a robust solution for the classification of hand grip postures in amputees. The methodology involves the use of Continuous Wavelet Transform (CWT) and Convolutional Neural Networks (CNNs). By leveraging EMG (Electromyography) signal analysis, we extract time-frequency features and generate a dataset of images using advanced data augmentation techniques.  
+
+![Example Image](images/ss.png)
+
 
 ## Key Features
 
